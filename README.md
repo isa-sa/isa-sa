@@ -1,3 +1,6 @@
+Discente na Universidade Federal da Bahia. Estudando desenvolvimento web e cibersegurança.
+
+
 - 👋 Hi, I’m @isa-sa
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
