@@ -1,4 +1,4 @@
-Discente na Universidade Federal da Bahia. Estudando desenvolvimento web e cibersegurança.
+Discente do curso Sistemas de Informação na Universidade Federal da Bahia. Estudando desenvolvimento web e cibersegurança.
 
 
 - 👋 Hi, I’m @isa-sa
