@@ -1,4 +1,4 @@
-- Olá! Sou Isabela, 21 anos de idade, discente dos cursos Sistemas de Informação - UFBA e Técnico em Desenvolvimento de sistemas - SENAI-BA.
+- Olá! Sou Isabela, 22 anos de idade, discente dos cursos Sistemas de Informação - UFBA e Técnico em Desenvolvimento de sistemas - SENAI-BA.
 - Atualmente estou estudando desenvolvimento web e cibersegurança.
 
 <!---
