@@ -1,5 +1,5 @@
 - Olá! Sou Isabela, discente dos cursos Sistemas de Informação e Técnico em Desenvolvimento de sistemas.
-- Atualmente estou estudando desenvolvimento web e cibersegurança.
+- Atualmente estou estudando e praticando desenvolvimento web e cibersegurança.
 
 <!---
 isa-sa/isa-sa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
